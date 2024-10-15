@@ -1,19 +1,15 @@
 import 'package:flutter/material.dart ';
+import 'package:practicise/home_page.dart';
 
-void main(){
+void main() {
   runApp(Practicise());
 }
-
 
 class Practicise extends StatelessWidget {
   const Practicise({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Container(
-      child: Text("Welcome to first flutter app" )
-    ),
-    );
+    return MaterialApp(home: HomePage());
   }
 }
