@@ -1,6 +1,6 @@
-# practicise
+# Practicise
 
-A new Flutter project.
+Welcome to my journey of building my very first Flutter app in just 30 days! 🚀 This project is all about learning, experimenting, and enhancing my Flutter skills, step by step. I'll be diving into UI design, state management, and integrating features to create a fully functional app from scratch.
 
 ## Getting Started
 
